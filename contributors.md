@@ -2,8 +2,9 @@ Zen Huang
 
 Jerry Xu~
 
-<<<<<<< HEAD
 Xinyun Chen
-=======
+
+Taring Lee
+
 Bai Junwen
->>>>>>> origin/master
+
